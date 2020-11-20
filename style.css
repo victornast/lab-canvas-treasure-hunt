@@ -18,3 +18,12 @@ body {
   text-align: center;
   width: 500px;
 }
+
+.copyright {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 0.8rem;
+  color: dimgray;
+  width: 500px;
+  display: block;
+  padding-top: 3rem;
+}
